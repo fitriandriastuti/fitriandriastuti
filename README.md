@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fitri Andri Astuti 
 - 🔭 I’m currently studying at STEI ITB
-- 👀 I’m interested in Python, JavaScript, Deep Learning, Machine Learning, Cloud Engineering, MongoDB, Docker
+- 👀 I’m interested in Python, JavaScript, Deep Learning, Machine Learning, Cloud Engineering, MongoDB, Docker, PHP
 - 🌱 I’m currently learning Satellite Imagery Analysis, Google Earth Engine, CNN
 - 📫 How to reach me in Twitter - [@fitriandriast](https://twitter.com/fitriandriast)
 
